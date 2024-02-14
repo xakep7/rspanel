@@ -2,10 +2,10 @@
 PHP server panel with file manager
 
 # Requirements
-PHP >= 7.1
-Memcached
+> PHP >= 7.1,
+> Memcached
 
-PHP extenson list:
+PHP extension list:
 - PHP-Memcached
 - PHP-ssh2 >= 1.2 for auth
 - PHP-dom
